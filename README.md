@@ -1,10 +1,8 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Rudraksh+Rathod!;" />
 </h1>
-
-<h3 align="center">A passionate Frontend developer from India</h3>
 
 <br/>
 
@@ -31,18 +29,39 @@
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
-
- <hr/>
+<br>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,figma,git,python,javascript" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,vscode,git,github,figma,python,react" /><br>
 </div>
 
 <br/>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://camo.githubusercontent.com/88f53a73b901a6417356a0a49fb0af35a0a42b08da62a8bf80eddaeca135f0db/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d52756472612d636f646565267468656d653d616c676f6c696126686964655f626f726465723d66616c736526696e636c7564655f616c6c5f636f6d6d6974733d66616c736526636f756e745f707269766174653d66616c7365" alt="streak stats"/>
+  <img width=390 src="https://camo.githubusercontent.com/76c579da11b0ceef4c83785e33269f6fb4aea74122c736a367993711747f36b3/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d52756472612d636f646565267468656d653d616c676f6c696126686964655f626f726465723d66616c7365" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://camo.githubusercontent.com/6b0094476502d8eb4f244b706463a7a2a293545730126acc3375f67c72632c0b/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d52756472612d636f646565267468656d653d616c676f6c696126686964655f626f726465723d66616c736526696e636c7564655f616c6c5f636f6d6d6974733d66616c736526636f756e745f707269766174653d66616c7365266c61796f75743d636f6d70616374" alt="top langs" />
+</div>
+
+<br/><br/>
+    <div class="align-center bg-gray-800 p-6 rounded-lg shadow-lg w-full max-w-lg text-center">
+        <h3 class="text-blue-400 text-lg font-semibold mb-4">✍️ Today's Dev Quote</h3>
+        <img class="rounded-lg shadow-md mx-auto" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote">
+    </div>
+<div align="center">
 <hr/>
 
+<br/>
+
+
+</div>
+
+<br/>
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
@@ -54,25 +73,4 @@
   <br/><br/><br/>
 </div>
 
-<hr/>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
-
-<br/><br/>
-
-<hr/>
-
-<br/>
-
-<div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-</div>
-
-<br/>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
