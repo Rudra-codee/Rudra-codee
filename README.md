@@ -10,9 +10,9 @@
  
  🔭 I’m currently studying in **Newton School of Technology**
  
- 🌱 I’m currently learning **React, ThreeJs, ....**
+ 🌱 I’m currently learning **Node.js, ThreeJs, ....**
 
-💬 Ask me about **HTML, CSS, PYTHON, JS... or anything [here](https://github.com/Rudra-codee/Rudra-codee/issues)**
+💬 Ask me about **HTML, CSS, PYTHON, JS, React... or anything [here](https://github.com/Rudra-codee/Rudra-codee/issues)**
 
 ⚡ Fun fact **Coding has over 700 languages**
 
