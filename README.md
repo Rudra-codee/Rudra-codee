@@ -10,7 +10,7 @@
  
  🔭 I’m currently studying in **Newton School of Technology**
  
- 🌱 I’m currently learning **React Native, ThreeJs, ....**
+ 🌱 I’m currently learning ** ThreeJs, ....**
 
 💬 Ask me about **React, Node, PYTHON, JS, React... or anything [here](https://github.com/Rudra-codee/Rudra-codee/issues)**
 
