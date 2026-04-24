@@ -12,7 +12,6 @@
  
  🌱 I’m currently learning ** ThreeJs, ....**
 
-💬 Ask me about **React, Node, PYTHON, JS, React... or anything [here](https://github.com/Rudra-codee/Rudra-codee/issues)**
 
 ⚡ Fun fact **Coding has over 700 languages**
 
