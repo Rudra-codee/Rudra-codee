@@ -1,21 +1,10 @@
 
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Rudraksh+Rathod!;" />
-</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hey+There!+👋;I'm+Rudraksh+Rathod;Full-Stack+Engineer;Shipping+Real+Products+🚀" />
+</div>
 
 <br/>
-
-<div align="center">
- 
- 🔭 I’m currently studying in **Newton School of Technology**
- 
- 🌱 I’m currently learning ** ThreeJs, ....**
-
-
-⚡ Fun fact **Coding has over 700 languages**
-
- </div>
  
 <div align="center"> 
   <a href="rudraksh969977@gmail.com">
@@ -29,29 +18,100 @@
   </a>
 </div>
 <br>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
+---
+
+## 🧑‍💻 About Me
+
+```txt
+🎓 BTech CS & AI — Newton School of Technology, Delhi (2024–2028)
+🚀 Building full-stack + AI products end-to-end — from DB schema to production UI
+🤖 Working with LLMs, RAG pipelines, agentic systems & ML models
+🏆 1st Place — HackTheHunt Cyber Treasure Hunt | Aesthetica UI/UX Workshop
+🔍 Passionate about developer tools, AI-powered apps & shipping fast
+📬 Open for 3-month internships at startups & product companies
+```
+
+---
+ <br/>
+
+ ## 🚀 Featured Projects
+
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,vscode,git,github,figma,python,react,tailwindcss" /><br>
+
+| Project | Description | Stack | Link |
+|--------|-------------|-------|------|
+| **Doxsy** | AI-powered GitHub repo documentation generator | Next.js · MongoDB · Groq · RAG | [🔗 Live](https://doxsy-4jsu.vercel.app) |
+| **INK** | Collaborative writing platform with AI assistance | React · TypeScript · Node.js · MongoDB | [🔗 Live](https://ink-app.vercel.app) |
+| **Churn Prediction Agent** | Hybrid ML + Agentic RAG customer retention system | Python · Scikit-learn · LangChain · Streamlit | [🔗 Live](https://customer-churn-prediction-ml-123.streamlit.app) |
+| **Bus Route Optimizer** | Dynamic school bus routing platform | Node.js · TypeScript · PostgreSQL · TypeORM | [🔗 GitHub](https://github.com/Rudra-codee/Dynamic-School-Bus-Route-Optimization-and-Monitoring-System) |
+
 </div>
 
+<br/>
+<h2> ⚒️ Tech Stack </h2>
+
+<div align="center">
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,html,css" />
+
+<br/><br/>
+
+**Backend**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,prisma" />
+
+<br/><br/>
+
+**Database**
+
+<img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis,mysql,supabase,firebase" />
+
+<br/><br/>
+
+**AI / ML**
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white" />
+<img src="https://img.shields.io/badge/RAG%20Pipeline-6366F1?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+
+<br/><br/>
+
+**Data & Analytics**
+
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+
+<br/><br/>
+
+**Tools & Platforms**
+
+<img src="https://skillicons.dev/icons?i=git,github,figma,vscode,vercel,docker" />
+
+</div>
 <br/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<div align=center>
-  <img width=390 src="https://camo.githubusercontent.com/88f53a73b901a6417356a0a49fb0af35a0a42b08da62a8bf80eddaeca135f0db/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d52756472612d636f646565267468656d653d616c676f6c696126686964655f626f726465723d66616c736526696e636c7564655f616c6c5f636f6d6d6974733d66616c736526636f756e745f707269766174653d66616c7365" alt="streak stats"/>
-<!--   <img width=390 src="https://camo.githubusercontent.com/76c579da11b0ceef4c83785e33269f6fb4aea74122c736a367993711747f36b3/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d52756472612d636f646565267468656d653d616c676f6c696126686964655f626f726465723d66616c7365" alt="readme stats" /> -->
-  <br/>
-  <img width=325 align="center" src="https://camo.githubusercontent.com/6b0094476502d8eb4f244b706463a7a2a293545730126acc3375f67c72632c0b/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d52756472612d636f646565267468656d653d616c676f6c696126686964655f626f726465723d66616c736526696e636c7564655f616c6c5f636f6d6d6974733d66616c736526636f756e745f707269766174653d66616c7365266c61796f75743d636f6d70616374" alt="top langs" />
+<div align="center">
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Rudra-codee&theme=algolia&hide_border=false&include_all_commits=false&count_private=false" />
+  <br/><br/>
+  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rudra-codee&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </div>
 
 <br/><br/>
-    <div class="align-center bg-gray-800 p-6 rounded-lg shadow-lg w-full max-w-lg text-center">
-        <h3 class="text-blue-400 text-lg font-semibold mb-4">✍️ Today's Dev Quote</h3>
-        <img class="rounded-lg shadow-md mx-auto" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote">
-    </div>
+   
 <div align="center">
 <hr/>
 
